@@ -1,0 +1,7 @@
+127.0.0.1 - - [21/Aug/2018:17:18:35 +0800] "GET / HTTP/1.1" 200 11458
+127.0.0.1 - - [21/Aug/2018:17:18:39 +0800] "GET /examples/jsp HTTP/1.1" 302 -
+127.0.0.1 - - [21/Aug/2018:17:18:44 +0800] "GET /examples/jsp/jsp2/el/basic-comparisons.jsp HTTP/1.1" 200 2343
+127.0.0.1 - - [21/Aug/2018:19:16:07 +0800] "GET / HTTP/1.1" 200 11458
+127.0.0.1 - - [21/Aug/2018:19:16:22 +0800] "GET /examples/servlets HTTP/1.1" 302 -
+127.0.0.1 - - [21/Aug/2018:19:16:25 +0800] "GET /examples/servlets/servlet/HelloWorldExample HTTP/1.1" 200 400
+127.0.0.1 - - [21/Aug/2018:19:17:16 +0800] "GET /examples/servlets/servlet/RequestHeaderExample HTTP/1.1" 200 1403
